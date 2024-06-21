@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/test_simulation_Park_Seong_Hyun/static/css/main.18e11287.css",
+    "main.js": "/test_simulation_Park_Seong_Hyun/static/js/main.298291ba.js",
+    "static/js/483.4ec9236e.chunk.js": "/test_simulation_Park_Seong_Hyun/static/js/483.4ec9236e.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/test_simulation_Park_Seong_Hyun/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/test_simulation_Park_Seong_Hyun/service-worker.js",
+    "index.html": "/test_simulation_Park_Seong_Hyun/index.html",
+    "main.18e11287.css.map": "/test_simulation_Park_Seong_Hyun/static/css/main.18e11287.css.map",
+    "main.298291ba.js.map": "/test_simulation_Park_Seong_Hyun/static/js/main.298291ba.js.map",
+    "483.4ec9236e.chunk.js.map": "/test_simulation_Park_Seong_Hyun/static/js/483.4ec9236e.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/test_simulation_Park_Seong_Hyun/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.298291ba.js"
+  ]
+}
